@@ -23,4 +23,8 @@ Code is written in C.
 
 #calculate_nth_term
 
-Code for calculating nth teram is given.
+Code for calculating nth term is given.
+
+#student_sum_solution
+
+A tricky twist is given in question.Logical problem statement and its solution done in C.
