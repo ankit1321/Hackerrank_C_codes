@@ -28,3 +28,7 @@ Code for calculating nth term is given.
 #student_sum_solution
 
 A tricky twist is given in question.Logical problem statement and its solution done in C.
+
+#variadic function in C
+
+In this program sum,min and max of n dynamic number is done in variadic function such that function takes any number of parameter.
